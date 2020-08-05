@@ -1,0 +1,9 @@
+R_DEF: Internal format may change without notice
+local
+attr? custom_typeface
+string app_name
+styleable SkinnableButton android:background android:textColor custom_typeface
+styleable SkinnableImageView android:src
+styleable SkinnableLinearLayout android:background
+styleable SkinnableRelativeLayout android:background
+styleable SkinnableTextView android:background android:textColor custom_typeface
